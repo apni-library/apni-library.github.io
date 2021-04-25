@@ -1,4 +1,4 @@
-const endpoint = "http://apni-library.herokuapp.com";
+const endpoint = "http://localhost:4000";
 var server = {};
 var loaded = false;
 var redirected = false;
